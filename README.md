@@ -23,34 +23,11 @@
 
 </div>
 
----
-
-### about
-
-engineer who works close to the metal — from compiler internals to DeFi protocol design.  
-i like building things that are fast, correct, and hard to break.
 
 ---
 
-### stack
 
-```
-languages     C · Python · JavaScript
-domains       compilers · DeFi / Web3 · systems programming
-tools         MetaMask integration · risk analysis · wallet infra
-```
 
----
-
-### work
-
-| project | description |
-|---|---|
-| [`nexacred-metamask-enhanced`](https://github.com/Theroid00/-nexacred-metamask-enhanced) | DeFi credit scoring · Web3 risk analysis platform |
-| [`PersonaD`](https://github.com/Theroid00/PersonaD) | Python · identity / persona engine |
-| [`compiler-design`](https://github.com/Theroid00/compiler-design) | C · lexer, parser, and codegen from scratch |
-
----
 
 ### stats
 
